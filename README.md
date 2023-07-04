@@ -18,8 +18,11 @@ Clone the repository to your local machine:
 git clone https://github.com/username/chrome-extension-backend-service.git
 ```
 ### Navigate to the project directory:
-
+```bash
 cd chrome-extension-backend-service
+```
 ### Usage
 - To start the application, run:
-* uvicorn main:app --reload
+```bash
+ uvicorn main:app --reload
+```
