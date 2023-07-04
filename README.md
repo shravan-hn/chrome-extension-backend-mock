@@ -21,6 +21,10 @@ git clone https://github.com/shravan-hn/chrome-extension-backend-mock.git
 ```bash
 cd chrome-extension-backend-service
 ```
+### Now, install the required packages:
+```bash
+pip install -r requirements.txt
+```
 ### Usage
 - To start the application, run:
 ```bash
