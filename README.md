@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/username/chrome-extension-backend-service.git
+git clone https://github.com/shravan-hn/chrome-extension-backend-mock.git
 ```
 ### Navigate to the project directory:
 ```bash
